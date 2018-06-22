@@ -1,0 +1,10 @@
+//
+//  Staging.xcconfig
+//  ConfigEnviroments
+//
+//  Created by nguyen.thi.quynh.mai on 6/21/18.
+//  Copyright © 2018 nguyen.thi.quynh.mai. All rights reserved.
+//
+
+server_url = staging.com
+protocol = https

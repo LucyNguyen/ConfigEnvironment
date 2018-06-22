@@ -4,10 +4,38 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ConfigEnviroments.xcscheme</key>
+		<key>Development.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>Production.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Staging.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7699A33920DB4C9A0001100D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7699A34D20DB4C9C0001100D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7699A35820DB4C9D0001100D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

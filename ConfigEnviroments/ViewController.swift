@@ -12,7 +12,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        let server_url = Environment().configuration(PlistKey.ServerURL)
+        print(server_url)
     }
 
     override func didReceiveMemoryWarning() {
